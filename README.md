@@ -6,6 +6,13 @@ This project analyzes retail revenue data from 2022–2024 to support strategic 
 
 ![Screenshot Dashboard](https://github.com/koptelevoon/Data-cleaning/blob/bb62cd1be1a0c791c2ee69e1006ee9a57e0a4da5/Screenshot%20dashboard.png)<br />
 
+## Data Source<br />
+
+This project uses the dataset **"Retail Store Sales: Dirty for Data Cleaning"** from Kaggle.<br />
+
+- Source: https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning<br />
+- Author: Ahmed Mohamed<br />
+- License: CC BY-SA 4.0<br /><br />
  
 **2)	North Star Metrics and Dimensions**<br />
 ----------------------------------------------
